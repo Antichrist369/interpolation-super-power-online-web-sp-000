@@ -1,3 +1,3 @@
 colors = ["r", "o", "y", "g", "b", "i", "v"]
 
-puts "blue: b[0], green: g[1], indego: i[2], orenge: o[3], red: r[4], violet: v[5], yellow: y[6]"
+puts "blue: b[4], green: g[3], indego: i[5], orenge: o[1], red: r[0], violet: v[6], yellow: y[2]"

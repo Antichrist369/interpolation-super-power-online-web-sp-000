@@ -1,3 +1,3 @@
-colors = ["r", "o", "y", "g", "bl", "b", "i", "v"]
+colors = ["r", "o", "y", "g", "b", "i", "v"]
 
-puts "bl: {blue[0]}, b: {brown[1]}, g: {green[2]}, i: {indego[3]}, o: {orenge[4]}, r: {red[5]}, v: {violet[6]}, y: {yellow[7]}"
+puts "b: {blue[0]}, g: {green[2]}, i: {indego[3]}, o: {orenge[4]}, r: {red[5]}, v: {violet[6]}, y: {yellow[7]}"
